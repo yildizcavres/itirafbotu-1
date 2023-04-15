@@ -24,31 +24,31 @@
       },    
       "ADMIN_QRUP": {
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
-         "value": "-717273671"
+         "value": "-1001937961971"
       },      
       "ETIRAF_QRUP": {
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
-         "value": "-1727079853"
+         "value": "-901860670"
       },
       "LOG_QRUP": {
          "description": "Bu qrupa botunuz giriş çıxış bilgiləri və xüsusi gizli məlumatlar göndərəcəy bu qrupda yalnız özünüz olun",
-         "value": "-6271773727"
+         "value": "-1001937961971"
       },
       "kanal": {
          "description": "Etiraflar paylaşılacaq kanal/qrup linkini bura yazın @ işarəsi olmadan",
-         "value": "EtirafClub"
+         "value": "@itiraf_telegram"
       },
       "BOT_AD": {
          "description": "Botun usernamesini bura yazın @ işarəsi ilə",
-         "value": "@EtirafClubBot"
+         "value": "@itiraf_et_bot"
       },
       "sahib": {
          "description": "Bura öz usernamenizi yazın @ işarəsi olmadan",
-         "value": "aykhan_s"
+         "value": "cavresoo"
       },      
       "support": {
          "description": "Bura support qrupunuz/kanalınız varsa @ işarəsi olmadan yazın yoxdusa olduğu kimi buraxın",
-         "value": "eGiarchive"
+         "value": "goldsohbettr"
       },
       "startmesaj": {
          "description": "Bota start verilən zaman yazılan mesaj",
